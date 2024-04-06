@@ -1,13 +1,13 @@
 ### Hi there, I'm José Neves 👋
 
-Welcome to my GitHub space! I'm a Full Stack Software Engineer with a keen focus on web technologies, crafting dynamic and robust web applications from front to back. What truly sets me apart is my boundless passion for technology and an insatiable capacity for learning. This drive enables me to venture beyond web development into the realms of Artificial Intelligence and Mobile App Development with ease and confidence.
+I'm a Full Stack Software Engineer with a keen focus on web technologies, crafting dynamic and robust web applications from front to back. What truly sets me apart is my boundless passion for technology and an insatiable capacity for learning. This drive enables me to venture beyond web development into the realms of Artificial Intelligence and Mobile App Development with ease and confidence.
 
 I believe in the power of code to transform ideas into reality, and I'm constantly exploring new technologies and methodologies to expand my toolkit. Whether it's developing scalable back-end systems, or dabbling in the intricate world of AI algorithms and mobile app innovation, I'm up for the challenge.
 
 My journey in tech is fueled by curiosity and the joy of building; I'm here to push boundaries, solve complex problems, and make a lasting impact. Let's connect, collaborate, and create something amazing together!
 
 
-## 🚀 Skills and Technologies
+## 🚀 Technologies
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -29,7 +29,10 @@ My journey in tech is fueled by curiosity and the joy of building; I'm here to p
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-
+### Operating Systems
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-999999?style=flat&logo=apple&logoColor=white)
 
 
 
