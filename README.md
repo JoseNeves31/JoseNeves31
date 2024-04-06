@@ -14,7 +14,7 @@ My journey in tech is fueled by curiosity and the joy of building; I'm here to p
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Frameworks
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -27,6 +27,8 @@ My journey in tech is fueled by curiosity and the joy of building; I'm here to p
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
 
 
 
