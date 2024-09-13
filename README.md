@@ -22,6 +22,7 @@ My journey in tech is fueled by curiosity and the joy of building; I'm here to p
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native Badge](https://github.com/your-username/your-repo/raw/main/path-to-image.png)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
